@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia02ambrgoog/operaomnia02ambrgoog_0010.png"; bbox 0 0 2752 4806; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 211 1772 1077 1990">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 211 1772 1077 1990">
+     <span class='ocr_line' id='line_1_1' title="bbox 211 1772 1077 1990; baseline -0.002 -57"><span class='ocrx_word' id='word_1_1' title='bbox 211 1772 214 1776; x_wconf 81' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 299 1807 615 1990; x_wconf 74' lang='lat' dir='ltr'>sANch</span> <span class='ocrx_word' id='word_1_3' title='bbox 655 1810 1077 1939; x_wconf 78' lang='lat' dir='ltr'>AMssRosss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 426 2120 950 2209">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 426 2120 950 2209">
+     <span class='ocr_line' id='line_1_2' title="bbox 426 2120 950 2209; baseline -0.006 -4"><span class='ocrx_word' id='word_1_4' title='bbox 426 2120 657 2208; x_wconf 83' lang='lat' dir='ltr'><strong>OPERA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 701 2121 950 2209; x_wconf 83' lang='lat' dir='ltr'><strong>OMNIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1380 4806">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1380 4806">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1380 4806; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1380 4806; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
